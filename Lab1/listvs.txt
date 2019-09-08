@@ -1,0 +1,32 @@
+total 2768
+-rwxr-xr-x 1 nick nick 1113504 Sep  9 00:15 bash
+-rwxr-xr-x 1 nick nick    4877 Sep  9 00:15 bzexe
+-rwxr-xr-x 1 nick nick  121432 Sep  9 00:15 dash
+-rwxr-xr-x 1 nick nick  100568 Sep  9 00:15 date
+-rwxr-xr-x 1 nick nick   30904 Sep  9 00:15 false
+-rwxr-xr-x 1 nick nick    5927 Sep  9 00:15 gzexe
+-rw-rw-r-- 1 nick nick       0 Sep  9 00:23 list
+-rwxr-xr-x 1 nick nick   38952 Sep  9 00:15 more
+-rwxr-xr-x 1 nick nick 1113504 Sep  9 00:15 rbash
+-rwxr-xr-x 1 nick nick  121432 Sep  9 00:15 sh
+-rwxr-xr-x 1 nick nick   88280 Sep  9 00:15 touch
+-rwxr-xr-x 1 nick nick   30904 Sep  9 00:15 true
+-rwxr-xr-x 1 nick nick   35032 Sep  9 00:15 uname
+-rwxr-xr-x 1 nick nick     946 Sep  9 00:15 which
+-rwxr-xr-x 1 nick nick    1910 Sep  9 00:15 zmore
+total 2772
+-rw-r----- 1 nick nick 1113504 Sep  9 00:15 bash
+-rw-r----- 1 nick nick    4877 Sep  9 00:15 bzexe
+-rw-r----- 1 nick nick  121432 Sep  9 00:15 dash
+-rw-r----- 1 nick nick  100568 Sep  9 00:15 date
+-rw-r----- 1 nick nick   30904 Sep  9 00:15 false
+-rw-r----- 1 nick nick    5927 Sep  9 00:15 gzexe
+-rw-r----- 1 nick nick     752 Sep  9 00:23 list
+-rw-r----- 1 nick nick   38952 Sep  9 00:15 more
+-rw-r----- 1 nick nick 1113504 Sep  9 00:15 rbash
+-rw-r----- 1 nick nick  121432 Sep  9 00:15 sh
+-rw-r----- 1 nick nick   88280 Sep  9 00:15 touch
+-rw-r----- 1 nick nick   30904 Sep  9 00:15 true
+-rw-r----- 1 nick nick   35032 Sep  9 00:15 uname
+-rw-r----- 1 nick nick     946 Sep  9 00:15 which
+-rw-r----- 1 nick nick    1910 Sep  9 00:15 zmore
